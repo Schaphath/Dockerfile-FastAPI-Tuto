@@ -1,4 +1,4 @@
-# API FastAPI - Prédiction du Cancer du Sein
+# API FastAPI - Prédiction du Cancer du Sein Tuto
 
 API REST pour la prédiction du cancer du sein basée sur l'apprentissage automatique.
 
